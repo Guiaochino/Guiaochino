@@ -1,4 +1,4 @@
-# Hi, My name Guiaochino _(giyaw-chino)_
+# Hi, My name Guiaochino
 **BS Computer Engineering (2019 - Present)**
 >_Generalist. Competitive. Active. Attentive_
 
