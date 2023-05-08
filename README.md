@@ -3,7 +3,7 @@
 >_Generalist. Competitive. Active. Attentive_
 
 ### Here's an Overview of who I am currently
-- 🤩 I’m interested in Full Stack Development, Machine Learning, and Artificial Intelligence
+- 🤩 I’m interested in Full Stack Development, ML/AI, and Robotics
 - 🤔 I’m currently learning Foreign Languages `Korean` and Full Stack Development `ReactJS and Java`
 - 🤝 I’m looking to collaborate on Anything, I have no preference as long as its programming
 
