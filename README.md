@@ -1,5 +1,5 @@
 # Hi, My name Guiaochino
-**BS Computer Engineering (2019 - Present)**
+**BS Computer Engineering (2019 - 2023)**
 >_Generalist. Competitive. Active. Attentive_
 
 ### Here's an Overview of who I am currently
